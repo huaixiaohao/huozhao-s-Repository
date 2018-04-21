@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Mystring.cpp" />
+    <ClCompile Include="point.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{BCD0464B-EE4D-4746-B3C7-2C7F272DB3DC}</ProjectGuid>

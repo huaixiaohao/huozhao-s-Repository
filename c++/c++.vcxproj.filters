@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Mystring.cpp">
+    <ClCompile Include="point.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

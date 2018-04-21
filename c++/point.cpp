@@ -5,7 +5,6 @@ using namespace std;
 class Point
 {
 
-
 };
 
 class Circle
